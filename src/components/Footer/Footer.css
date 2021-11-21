@@ -1,0 +1,21 @@
+.footer-link{
+    text-decoration: none;
+    color: cornsilk;
+ 
+}
+.subscribe-box{
+    
+    border: 0px;
+    padding: 8px;
+   border-radius: 20px;
+    background-color: darkgreen;
+    color: rgb(8, 8, 8);
+
+}
+.icon-color{
+    color: yellowgreen;
+}
+.texts{
+    font-family: 'Times New Roman', Times, serif;
+}
+

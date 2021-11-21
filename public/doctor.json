@@ -1,0 +1,49 @@
+[
+    {       
+
+        "id": 1,
+        "name": "Joya Hasan",
+        "visit": 1000,
+        "img": "./image/doctor/doctor-1.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 2,
+        "name": "Mithila Hasan",
+        "visit": 1000,
+        "speciality": "Pathologist",
+         "img": "./image/doctor/doctor-2.jpg"
+        },
+    {
+        "id": 3,
+        "name": "Natasha Khatun",
+        "visit": 1000,
+        "speciality": "Nefrologist",
+         "img": "./image/doctor/doctor-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jisha Ahmed",
+        "visit": 1000,
+        "speciality": "Neurologist",
+         "img": "./image/doctor/doc.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jhon Anderson",
+        "visit": 1000,
+        "speciality": "Psychologist",
+         "img": "./image/doctor/doctor-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rose Cameli",
+        "visit": 1000,
+        "speciality": "Gynecologist",
+         "img": "./image/doctor/doctor-6.jpg"
+    }
+    
+   
+    
+   
+]

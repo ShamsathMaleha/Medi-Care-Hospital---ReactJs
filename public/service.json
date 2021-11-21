@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiac Treatment",
+        "description": "Medi Heart Centre is where skill and modern technology meet to save and improve lives of both the young and old. From life saving cardiac surgeries to high –tech interventional cardiology –our team of specialist cover the full spectrum of heart diseases with skill and precision.",
+        "img": "./image/services/cardiac.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Emergency Unit",
+        "description": "Medi Care Hospital ER has fully equipped top of the line Mercedes Benz ambulance services with specially trained staffs. We also have our own Square Air Ambulance service, with brand new Bell 407 helicopter loaded with all life-saving equipments, to transport patients from any corner of the country. Patients get a fully integrated emergency care at Square Hospital Emergency Room. ",
+        "img": "./image/services/emergency.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nephrology Unit",
+        "description": "The department of nephrology at AINU is supported by accomplished, experienced nephrologists who perform Kidney biopsy, SLED, Plasmapheresis, Hemodiafiltration. We perform Kidney transplants also. AINU offers Hemodialysis and Plasma Dialysis (Plasmapheresis). We have catheterization laboratories.",
+        "img": "./image/services/nefrology.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pediatric Diagnosis",
+        
+        "description": "Our Pediatric specialists are here to provide you with the exceptional compassionate care that has been a hallmark of Square Hospital since we opened our doors. In order to bring world class Pediatric ",
+        "img": "./image/services/pediatric.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Outpatient Surgery",
+        
+        "description": "It has long been recognized that some disease can only be treated with Surgeon’s knife. The history of surgery is as old as that of mankind and disease. Surgery has evolved from primitive live saving to highly sophisticated form of technology. ",
+        "img": "./image/services/outpatient.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Gynaecological Wings",
+        
+        "description": "Our center is specially designed by experienced specialist with latest technology. Our Centre has an experienced team of doctors, nurses, embryologist and technicians trained in Singapore and India. ",
+        "img": ".././image/services/gynocology.jpg"
+    }
+    
+   
+]

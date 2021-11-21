@@ -1,0 +1,9 @@
+.images:hover{
+   z-index: 1;
+   box-shadow: 0 8px 50px rgba(0,0,0, 0.2);
+   transform: scale(1.05);
+   background-color:rgb(199, 224, 205);
+
+   
+}
+   
